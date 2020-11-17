@@ -5,7 +5,7 @@
         // Range: 24 - 1526 Hz
         servo.frequency = 1440 // Hz
         
-        // 90%
+        // 90% Test
         servo.angle(15, angle: 90)
 
 
